@@ -4,39 +4,23 @@ TECH COIN | Wallet Versions Online 1.1.0 | 1.1.4.1 |1.2.0.1
 ![TECH Logo](https://chainz.cryptoid.info/logo/tech.png "TECH Logo")
 [![PoD](http://cryptoasian.com/wp-content/uploads/2014/10/ratingTECH2.jpg)](http://cryptoasian.com/tech-techcoin/)
 
-Development of Community Members
-====================
-
-            Lead Coder      |  Sustainability Initiatives  | Community Manager       
-    :----------------------:|:----------------------------:|:-----------------------:
-         "cecilbdemented"   |        "To Be Filled"        |   "Testing Crypto"      
-      Lead Coder ~ Wallet   | Incentives Program ~ Website |   Coder ~ Forums      
-    ---------------------------------------------------------------------------------
-          "edn247" ~ Thanks for all your contributions for the TECH community
-          "evtrmm" ~ Thanks for all your contributions for the TECH community
-    ---------------------------------------------------------------------------------
-          Looking for help with development/community manager, PM with offers.  
-
 TECH Information
 ====================
     
 
-     Ticker: TECH           | PoW/PoS                 | Algorithm:X13      |        Nodes         |           Ports
-    :----------------------:|:-----------------------:|:------------------:|:--------------------:|:---------------:
-     Genesis Block:         | 2014-06-24              | 11:02:45           |      186.206.54.60   |           57698
-     Max POW:               | 186,985 TECH            | -                  |      188.163.107.66  |           57697
-     Last PoW Block:        | 2014-06-28              | 01:59:48           |      24.85.114.101   |
-     PoS Starts on Block:   | 5,000                   | 4 Days             |      50.83.9.153     |
-     First PoS Block:       | 2014-06-29              | 08:00:27           |      213.155.254.2   |
-     PoS Annual Interest:   | 4%                      | -                  |      96.54.68.100    |
-     PoS Minimum Stake Age: | 1 Hour                  | (12 Blocks)        |      148.251.8.18    |
-     Total:                 | 300,000 TECH            | 12-13 years        |      162.220.166.125 |
-                            |                         |                    |      149.202.121.129 |
-                            |                         |                    |                      | 2a01:4f8:201:6211::2101
-                            |                         |                    |                      |
-                            |                         |                    |                      |
-                            |                         |                    |                      |
-                            |                         |                    |                      |
+    | Ticker: TECH           | PoW/PoS             | Algorithm:X13      |        Nodes         |     Ports |
+    |:---------------------- |:-------------------:|:------------------:|:--------------------:| ---------:|
+    | Genesis Block:         | 2014-06-24          | 11:02:45           |      186.206.54.60   |     57698 |
+    | Max POW:               | 186,985 TECH        | -                  |      188.163.107.66  |     57697 |
+    | Last PoW Block:        | 2014-06-28          | 01:59:48           |      24.85.114.101   |           |
+    | PoS Starts on Block:   | 5,000               | 4 Days             |      50.83.9.153     |           |
+    | First PoS Block:       | 2014-06-29          | 08:00:27           |      213.155.254.2   |           |
+    | PoS Annual Interest:   | 4%                  | -                  |      96.54.68.100    |           |
+    | PoS Minimum Stake Age: | 1 Hour              | (12 Blocks)        |      148.251.8.18    |           |
+    | Total:                 | 300,000 TECH        | 12-13 years        |      162.220.166.125 |           |
+    |                        |                     |                    |      149.202.121.129 |           |
+    |                        |                     |                    |                      |           |
+
 Timeline
 ====================
 
@@ -82,52 +66,6 @@ Exchanges (BTC, LTC, DOGE)
 Block Explorers
 ====================
 [![Crypto ID](https://chainz.cryptoid.info/theme/cryptoID64.png)](https://chainz.cryptoid.info/tech/)
-[![Tech Blocks](http://oi60.tinypic.com/2n7dzmd.jpg)](http://techblocks.chainworks.info:8324/chain/Techcoin)
-
-Current Campaigns & Giveaways
-====================
-###Twitter Exchange Campaign Giveaway
-
-[![Twitter Exchange Campaign Giveaway](http://books2download.nl/blog/wp-content/uploads/2011/04/twitterVStweet.gif)](https://twitter.com/TechcoinGroup)
-
-Help TechCoin get on more exchanges and earn up to 14 TECH!
-
-Step 1 - Register for the campaign by tweeting "@TechcoinGroup Exchange <your TECH address>"  Your Twitter handle and address will be registered.  Don't forget to follow us if you're not already!
-
-Step 2 - Tweet the following to your favorite exchange: "@<exchange> Please add @TechcoinGroup! Active, transparent dev team, 5+ POD, gives back to the community with contests and giveaways!"
-
-That's it!  You will automatically receive 1 TECH per exchange you tweet, up to 14 TECH!
-
-List of exchanges included in campaign:
-
-    *  | @Twitter:                      | Exchange:
-    :-:|:-------------------------------|:-----------------------------
-    1  | @AllCoinEx                     | (AllCoin)
-    2  | @AskCoinNet                    | (AskCoin)
-    3  | @Bleutrade                     | (Bleutrade)        
-    4  | @btcmarketorg                  | (BTC Market)
-    5  | @btercom                       | (Bter)
-    6  | @CryptoCurrEncyX               | (C-Cex)
-    7  | @coins_e                       | (Coins-E)
-    8  | @CoinSwapNet                   | (Coin-Swap)
-    9  | @cryptoine                     | (Cryptonite)
-    10 | @cryptsy                       | (Cryptsy)
-    11 | @EmpoExchange                  | (EmpoEx)
-    12 | @LazyCoins                     | (LazyCoins)
-    13 | @Poloniex                      | (Poloniex)
-    14 | @swisscex                      | (Swiss Coin Exchange)
-
-###Reddit giveaway, post your thoughts on TECH for TECH.
-
-[![Reddit Campaign Giveaway](http://rack.0.mshcdn.com/media/ZgkyMDE0LzA4LzA3LzZkL2Zyb250cGFnZTEuODA3ZjguZ2lmCnAJdGh1bWIJMTIwMHg5NjAwPg/9640b5b4/207/front-page1.gif)](http://www.reddit.com/r/techcoin/)
-
-TECH development will be starting an ongoing Reddit giveaway (Tuesday, November 11th, 2014), every person to post their thoughts on building the TECH APP will receive 1 TECH coin. Just post your address, only one post per user a day is allowed (1 TECH per day | per post). Thanks for being a part of the TECH community.
-
-               | Campaigns & Giveaways                                                |
-            ---|:--------------------------------------------------------------------:|---   
-            
-               | Links                 | Wallets              | Ledgers               |         
-            ---|:---------------------:|:--------------------:|:---------------------:|---
 
 #####[![Visit our Twitter page](http://oi58.tinypic.com/14jat53.jpg)](https://twitter.com/TechcoinGroup)[![Twitter Wallet](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/address.dws?5337.htm)[![Twitter Ledger](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1En4GbWjswNLEpxPcqVlhADY6y_MZFB2Y9Y4LVlI_j6Q/edit?usp=sharing)
 #####[![Visit our Facebook page](http://oi60.tinypic.com/4re3ki.jpg)](https://www.facebook.com/pages/TechCoin/738472479557133)[![Facebook Wallet](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/address.dws?TLNpvwr7ivMKDY228CukhBkj6vDqzvtk6a.htm)[![Facebook Ledger](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1j3bstUTcp-3wjbr6NpWMU-3uX4cUJ3NzZcTHl85qRPY/edit?usp=sharing)
@@ -140,7 +78,7 @@ We have given away 1% of all POW coins to over 100 TECH community members!
 Watch this space for future giveaways and promotions!"
 Friday, October 17, 2014
 
-###1% Twitter Giveaway Wallet & ledger
+###1% Twitter Giveaway Wallets & ledgers
 
 [![1% Twitter Giveaway](http://oi61.tinypic.com/2v1rssw.jpg)](https://chainz.cryptoid.info/tech/address.dws?TKLj8v4RjXSuo7kmZ3b7zDX14RcwawGaeC.htm)[![1% Giveaway Ledger](http://oi59.tinypic.com/idzzet.jpg)](https://docs.google.com/spreadsheets/d/1FLFVyA_pkIBEYv-grl9fq1nWS9fkhkdAC5MhF_44au4/edit?usp=sharing)
 
